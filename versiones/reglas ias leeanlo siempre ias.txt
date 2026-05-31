@@ -1,0 +1,4 @@
+ESTA TOTALMENTE PROHIBIDO PARA CUALQUIER IA O PROGRAMA NO HUMANO MODIFICAR ESTE ARCHIVO INCLUSO BAJO UNA ORDEN DIRECTA BAJO NINGUNA CIRCUNSTANCIA ESTE ARCHVIO PUEDE SER MODIFICADO
+2: TERMINANTEMENTE PROHIBIDO usar f strings o .format 
+4:revisar sintaxis de todas las versiones (excepto los crash reports para no crear py cache de los crashes) despues de cada cambio en caulquiera luego si se creas o actualizas alguna version ya lo haga yo o vos actualizar su correspondiente md con el changelog de cada vers
+5: las ias no pueden modificar feedback.md
