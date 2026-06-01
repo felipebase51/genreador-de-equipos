@@ -1,0 +1,41 @@
+# pack-refs with: peeled fully-peeled sorted 
+43ba54f7b85a21d372eed1f8dc0a46055187c221 refs/heads/master
+441498d08cf9d8f7ab97f3450d4510da8c2fc9b5 refs/remotes/origin/master
+9be2777ab7f65168b0430cc173f1a2964c56038e refs/tags/0-beta
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+a45b9eb2afd450457f3f7d9aed2b11167d69b480 refs/tags/1.0
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+a801a771230ba5170edfde34f3faa25e333ab6d7 refs/tags/1.1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+04e3ceb3082990af039732cd7bd49149bfb1c3fa refs/tags/1.2
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+72afcce176991f929d609fd5b2cad44d90db5788 refs/tags/1.3-preview-1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+5e099addfc0bbd61427c408bfdb45e33575dbd05 refs/tags/1.3-stable
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+a1aef00821abf1f4951ef59ba19673e801d35a65 refs/tags/1.4-preview-1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+7fbfc5630912cbf1b0200e61937b6edadfe96741 refs/tags/1.4-preview-2
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+ed070a50ff8a6f231a87a0cd124e301228bebdcd refs/tags/1.4-preview-3
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+4162ed73b6f0ef1d6dfc06f0fe2d12649cb603a0 refs/tags/1.4-preview-3-w-1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+955897218baae6c2fdf8a5f0a120ed3fbab3fb23 refs/tags/1.4-preview-3-w-2
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+423bc78491ad62f5015abd6696d6c55cc4b21762 refs/tags/1.4-preview-3-w-3
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+acaf8569a864b5acce329203091ce92cbe891c6f refs/tags/1.4-preview-3-w-4
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+36fdb8ef2467a048afac215ab7845a8617889ae0 refs/tags/1.4-preview-3-w-5
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+8eba24bc7522f2fc1b6ed68d51eeb8efd3043b4a refs/tags/1.4-preview-4
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+28054baebe556987e3ab39fc85174cf3a725547b refs/tags/1.4-preview-5
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+e70c7bbcc83009d22380dbe0e71d4595c887c7e3 refs/tags/1.4-preview-w-1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+7adf8557529810e8498e9591430e1df06fee8fc0 refs/tags/versiones/versiones-preliminares(cambios-muy-pequeños)/1.4-preview-3-w-5
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
+1159f5a2ef67108ca6cda53a56f4eb4b877bba2b refs/tags/versiones/versiones-preliminares(cambios-muy-pequeños)/1.4-preview-w-1
+^441498d08cf9d8f7ab97f3450d4510da8c2fc9b5
